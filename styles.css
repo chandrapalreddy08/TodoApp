@@ -178,4 +178,8 @@ button {
   #task-list {
     width: 93%;
   }
+
+  .footer{
+    font-size: 16px;
+  }
 }
