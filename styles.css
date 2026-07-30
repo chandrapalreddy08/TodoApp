@@ -22,10 +22,10 @@ body {
   flex-direction: column;
   justify-content: center;
   margin-top: 120px;
-  margin: 120px auto 0 auto;
+  margin: 220px auto 0 auto;
   max-width: 500px;
   min-height: 95vh;
-  margin-top:60px;
+  
 }
 
 .stats-container {
@@ -172,7 +172,6 @@ button {
   .stats-container {
     padding: 30px 20px;
     width: 93%;
-    margin-top:100px;
   }
 
   form {
